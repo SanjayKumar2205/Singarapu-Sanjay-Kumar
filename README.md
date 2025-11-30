@@ -11,14 +11,14 @@ Java
 
 ## How to Run
 Compile:
-  javac Program-1.java
-  javac Program-2.java
-  javac Program-3.java
-  javac Program-4.java
+  --javac Program-1.java
+  --javac Program-2.java
+  --javac Program-3.java
+  --javac Program-4.java
 Run:
-  java Program-1
-  java Program-2
-  java Program-3
-  java Program-4
+  --java Program-1
+  --java Program-2
+  --java Program-3
+  --java Program-4
 
   
